@@ -10,11 +10,17 @@ The dataset used for training the models consists of various geological features
 
 # Features
 Pressure: Pressure of CO2 at the storage site (in Pascals).
+
 Temperature: Temperature of CO2 at the storage site (in degrees Celsius).
+
 Rock_Permeability: Permeability of the rock formations (in Darcy).
+
 Fault_Probability: Probability of fault occurrence at the storage site.
+
 Depth: Depth of the storage formation (in meters).
+
 Porosity: Porosity of the rock formations at the storage site.
+
 Additional geological and geophysical parameters.
 
 # Methodology
